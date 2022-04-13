@@ -13,8 +13,7 @@
   <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
   
   ![Snake animation](https://github.com/AndreHMeyer/AndreHMeyer/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
   
